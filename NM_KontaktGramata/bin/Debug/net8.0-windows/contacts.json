@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "4a14cd1e-f445-4141-8f1d-4c8ace13d7a3",
+    "Name": "Bacha",
+    "Phone": "26735345",
+    "Email": "bacha67@inbox.ru"
+  },
+  {
+    "Id": "bf56f46e-a18c-4219-a8a7-715f1064e320",
+    "Name": "Graudins",
+    "Phone": "20789523",
+    "Email": "graudinsss@grunts.lv"
+  },
+  {
+    "Id": "f8c71411-30ae-4ff4-b538-865e32a4ab5d",
+    "Name": "Pizgans",
+    "Phone": "26718242",
+    "Email": "hujans@gamma.lv"
+  },
+  {
+    "Id": "2cccbf91-7d30-47e1-9b0e-ba56cdfcc8a9",
+    "Name": "Olis",
+    "Phone": "28623412",
+    "Email": "olainis@olaine.lv"
+  }
+]

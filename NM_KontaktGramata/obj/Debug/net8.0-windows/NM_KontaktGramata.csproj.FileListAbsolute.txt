@@ -1,0 +1,17 @@
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\bin\Debug\net8.0-windows\NM_KontaktGramata.exe
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\bin\Debug\net8.0-windows\NM_KontaktGramata.deps.json
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\bin\Debug\net8.0-windows\NM_KontaktGramata.runtimeconfig.json
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\bin\Debug\net8.0-windows\NM_KontaktGramata.dll
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\bin\Debug\net8.0-windows\NM_KontaktGramata.pdb
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\NM_KontaktGramata.ContactForm.resources
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\NM_KontaktGramata.Form1.resources
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\NM_KontaktGramata.csproj.GenerateResource.cache
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\NM_KontaktGramata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\NM_KontaktGramata.AssemblyInfoInputs.cache
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\NM_KontaktGramata.AssemblyInfo.cs
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\NM_KontaktGramata.csproj.CoreCompileInputs.cache
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\NM_KontaktGramata.dll
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\refint\NM_KontaktGramata.dll
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\NM_KontaktGramata.pdb
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\NM_KontaktGramata.genruntimeconfig.cache
+C:\Users\MiniP\OneDrive\Desktop\Skola\Programmesana\NM_KontaktGramata\obj\Debug\net8.0-windows\ref\NM_KontaktGramata.dll
